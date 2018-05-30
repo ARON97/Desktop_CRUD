@@ -1,0 +1,5 @@
+STANDALONE EXECUTABLE VERSION OF THE PROGRAM
+Install pyinstaller
+pip install pyinstaller
+Then call pyinstaller
+pyinstaller -- onefile --windowed frontend.py, this code generates a .exe(windows) or .app(MAC)
